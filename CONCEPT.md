@@ -1,4 +1,4 @@
-# [Your Project Name]
+# Transcriber
 
 ## Team Members
 - Aivis Brutāns
@@ -6,15 +6,15 @@
 - Normunds Bolužs
 
 ## Project Description
-[2-3 sentences describing what your app does]
+App generates transcribed text from the given audio file
 
 ## Problem Statement
-[What problem are you solving? Who is this for?]
+Manual transcription is time-consuming and expensive, typically requiring 4-6 hours of work to transcribe one hour of audio. Organizations spend substantial resources on transcription services or dedicate staff time to this repetitive task.
 
 ## API Selection
-**API Name:** [e.g., TMDB API]  
-**API Documentation:** [URL]  
-**Why this API?** [1-2 sentences]
+**API Name:** ElevenLabs API
+**API Documentation:** [Get transcript](https://elevenlabs.io/docs/api-reference/speech-to-text/get)  
+**Why this API?** Good documentation. One of the best transcribers in the market.
 
 ### 2. GitHub Repository
 
