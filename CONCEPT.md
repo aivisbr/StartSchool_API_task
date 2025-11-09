@@ -15,16 +15,3 @@ Manual transcription is time-consuming and expensive, typically requiring 4-6 ho
 **API Name:** ElevenLabs API  
 **API Documentation:** [Get transcript](https://elevenlabs.io/docs/api-reference/speech-to-text/get)  
 **Why this API?** Good documentation. One of the best transcribers in the market.
-
-### 2. GitHub Repository
-
-**Required structure for now:**
-
-project-name/  
-└── README.md
-
-**README.md should include:**
-- Project title
-- Brief description
-- Team members
-- API being used
